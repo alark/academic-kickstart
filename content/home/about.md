@@ -17,9 +17,9 @@ weight = 5
 
 # List your qualifications (such as academic degrees).
 [[education.courses]]
-  course = "PhD in Artificial Intelligence"
-  institution = "Stanford University"
-  year = 2012
+  course = "PhD in Computer Science"
+  institution = "University of Maryland Baltimore County"
+  year = 2007
 
 [[education.courses]]
   course = "MEng in Artificial Intelligence"
